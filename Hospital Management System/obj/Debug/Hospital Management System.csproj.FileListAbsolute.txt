@@ -1,0 +1,44 @@
+C:\Users\RIZWAN ULLAH\Desktop\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe.config
+C:\Users\RIZWAN ULLAH\Desktop\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe
+C:\Users\RIZWAN ULLAH\Desktop\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.pdb
+C:\Users\RIZWAN ULLAH\Desktop\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.AddDoctors.resources
+C:\Users\RIZWAN ULLAH\Desktop\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Properties.Resources.resources
+C:\Users\RIZWAN ULLAH\Desktop\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csproj.GenerateResource.Cache
+C:\Users\RIZWAN ULLAH\Desktop\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.exe
+C:\Users\RIZWAN ULLAH\Desktop\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.pdb
+C:\Users\RIZWAN ULLAH\Desktop\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.AddReceptionist.resources
+C:\Users\RIZWAN ULLAH\Desktop\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.ReceptionistMainForm.resources
+C:\Users\RIZWAN ULLAH\Desktop\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.MainLoginForm.resources
+C:\Users\RIZWAN ULLAH\Desktop\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.DoctorMainForm.resources
+C:\Users\RIZWAN ULLAH\Desktop\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.MedicineMainform.resources
+C:\Users\RIZWAN ULLAH\Desktop\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.AdmitPatientForm.resources
+C:\Users\RIZWAN ULLAH\Desktop\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.DoctorCheckpatientlist.resources
+C:\Users\RIZWAN ULLAH\Desktop\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.AdminMainForm.resources
+C:\Users\RIZWAN ULLAH\Desktop\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.PatientDetails.resources
+C:\Users\RIZWAN ULLAH\Desktop\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.TakeAppointment.resources
+C:\Users\RIZWAN ULLAH\Desktop\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.ReleaseAdmitPatient.resources
+C:\Users\RIZWAN ULLAH\Desktop\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csprojResolveAssemblyReference.cache
+C:\Users\RIZWAN ULLAH\Music\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.AddDoctors.resources
+C:\Users\RIZWAN ULLAH\Music\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.AddReceptionist.resources
+C:\Users\RIZWAN ULLAH\Music\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.AdminMainForm.resources
+C:\Users\RIZWAN ULLAH\Music\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.AdmitPatientForm.resources
+C:\Users\RIZWAN ULLAH\Music\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.CheckAppointmentPatient.resources
+C:\Users\RIZWAN ULLAH\Music\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.DoctorCheckpatientlist.resources
+C:\Users\RIZWAN ULLAH\Music\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.DoctorMainForm.resources
+C:\Users\RIZWAN ULLAH\Music\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.MainLoginForm.resources
+C:\Users\RIZWAN ULLAH\Music\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.MedicineMainform.resources
+C:\Users\RIZWAN ULLAH\Music\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.PatientDetails.resources
+C:\Users\RIZWAN ULLAH\Music\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Properties.Resources.resources
+C:\Users\RIZWAN ULLAH\Music\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.ReceptionistMainForm.resources
+C:\Users\RIZWAN ULLAH\Music\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.ReleaseAdmitPatient.resources
+C:\Users\RIZWAN ULLAH\Music\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.TakeAppointment.resources
+C:\Users\RIZWAN ULLAH\Music\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csproj.GenerateResource.Cache
+C:\Users\RIZWAN ULLAH\Music\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe.config
+C:\Users\RIZWAN ULLAH\Music\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe
+C:\Users\RIZWAN ULLAH\Music\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.pdb
+C:\Users\RIZWAN ULLAH\Music\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.exe
+C:\Users\RIZWAN ULLAH\Music\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.pdb
+C:\Users\RIZWAN ULLAH\Music\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csprojResolveAssemblyReference.cache
+C:\Users\RIZWAN ULLAH\Documents\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe.config
+C:\Users\RIZWAN ULLAH\Documents\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.exe
+C:\Users\RIZWAN ULLAH\Documents\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.pdb
